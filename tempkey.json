@@ -4,12 +4,12 @@
     "username": "almzagngy",
     "password": "1234",
     "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "allowOffline": truealmzagngy
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
+    "id": "82cd6bef13c6684a",
+    "username": "almzagngy",
+    "password": "1234",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
